@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
 
-- 👨‍💻 All of my projects are available at www.muststudios.com
+- 👨‍💻 All of my projects are available at www.jaytrons.com
 
 - 💬 Ask me about Blockchain, Wallets, Defi Dapps, React, Node.js & JavaScript in general.
 
