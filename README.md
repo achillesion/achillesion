@@ -1,5 +1,8 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Ahmad Bashir</h2>
-<h3>I'm software developer from Paksitan, currently specialising in Blockchain development and its ecosystem.</h3>
+<h2>Skills</h2>
+<h3>UI/UX Design</h3>
+<h3>Full Stack Development</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
 
